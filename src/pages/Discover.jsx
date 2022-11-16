@@ -52,7 +52,7 @@ const Discover = () => {
 						data={data}
 						i={i}
 					/>
-				))}
+				))};
 			</div>
 		</div>
 	);
